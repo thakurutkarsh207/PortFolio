@@ -1,0 +1,2 @@
+import img from "../src/img.png";
+<img src="/java.png" alt="Java" />
